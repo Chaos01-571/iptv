@@ -2,9 +2,13 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
+# https://gitee.com/RandomCJ/IPTV_Personal/raw/master/output/IPTV_Personal.txt
+# https://gitee.com/sk0yang/tv/raw/master/output/result.txt
+# https://gitee.com/q1017673817/fan/raw/iptv/zubo.txt
+# https://gitee.com/yu_shan_fei/vvvzhy/raw/zby/yu/yqk3.m3u
+# https://ds65.tv1288.xyz
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
-https://gitee.com/hzxs800274/iptv/raw/master/live/TV
 https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt
 https://gitee.com/lwr851/live/raw/master/iptv.m3u
 https://supprise0901.github.io/TVBox_live/live.txt
@@ -16,7 +20,6 @@ https://gitee.com/szwxk/watch-television/raw/master/wxk1.m3u
 http://rihou.cc:88/zb/migu720plist.txt
 https://gitee.com/king12985/tv/raw/master/lives/20180818.txt
 https://gitee.com/g1753462733/zb/raw/main/itvlist.txt
-http://www.52top.com.cn:678/downloads/migu.txt
 https://gitee.com/king12985/tv/raw/master/lives/zhizhu/20180818china.txt
 https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/bhzb.m3u
 https://codeberg.org/zxj/xyh/raw/branch/main/live.txt
@@ -30,11 +33,8 @@ https://d.kstore.dev/download/11344/yunduan.txt
 https://4key.cn/FP
 http://盒子迷.top/ZB
 
-# https://gitee.com/RandomCJ/IPTV_Personal/raw/master/output/IPTV_Personal.txt
-# https://gitee.com/sk0yang/tv/raw/master/output/result.txt
-# https://gitee.com/q1017673817/fan/raw/iptv/zubo.txt
-# https://gitee.com/yu_shan_fei/vvvzhy/raw/zby/yu/yqk3.m3u
-# https://ds65.tv1288.xyz
+# https://gitee.com/hzxs800274/iptv/raw/master/live/TV
+# http://www.52top.com.cn:678/downloads/migu.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
