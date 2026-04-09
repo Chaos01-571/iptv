@@ -97,6 +97,8 @@ https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
 https://live.fanmingming.com/tv/m3u/iptv.m3u
 https://iptv-org.github.io/iptv/index.m3u
 https://epg.pw/test_channels_china.m3u
+https://live.zbds.top/tv/iptv6.m3u
+https://live.zbds.top/tv/iptv4.m3u
 
 
 
