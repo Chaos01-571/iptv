@@ -94,6 +94,11 @@ http://rihou.cc:555/gggg.nzk
 https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
 https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
 https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
+https://live.fanmingming.com/tv/m3u/iptv.m3u
+https://iptv-org.github.io/iptv/index.m3u
+https://epg.pw/test_channels_china.m3u
+
+
 
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
