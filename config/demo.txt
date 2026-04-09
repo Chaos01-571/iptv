@@ -49,16 +49,11 @@ viuTV6
 
 TVBS 亚洲
 TVBS 新闻台
-TVBS 欢乐台
-TVBS 精彩台
-TVBS 闽南台
-TVBS 综艺台
-TVBS 台剧台
 TVBS 综合台
 
 TVB 华丽台
 TVB 星河台
-TVB 明珠剧集
+
 TVB J1
 TVB J2
 
@@ -72,11 +67,13 @@ TVB J2
 ☘️广东频道,#genre#
 广东珠江
 广州综合
+广州新闻
 广东新闻
 广东卫视
 广东卫视4K
 广东民生
 大湾区卫视
+南方都市4K
 
 
 
