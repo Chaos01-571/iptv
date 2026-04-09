@@ -23,21 +23,22 @@ CETV-4
 
 🌊港·澳·台,#genre#
 翡翠台
+
 华丽翡翠台
-
-
-TVB Plus
-
 无线新闻
+Now 新闻台
+TVB Plus
 
 HOY 资讯台
 viuTV
 viuTV6
 有线新闻
-Now 新闻台
+
 凤凰卫视
 凤凰香港
 凤凰资讯
+
+星空卫视
 
 TVBS 亚洲
 TVBS 新闻台
@@ -47,8 +48,6 @@ TVBS 闽南台
 TVBS 综艺台
 TVBS 台剧台
 TVBS 综合台
-
-星空卫视
 
 TVB 华丽台
 TVB 星河台
