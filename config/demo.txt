@@ -19,25 +19,25 @@ CETV-4
 翡翠台
 无线新闻
 Now 新闻台
-TVBS
-HOYTV
+TVBS News
+HOY TV
 HOY 资讯台
-viuTV
-viuTV6
+viu TV
+viu TV6
 有线新闻
 凤凰卫视
 凤凰香港
 凤凰资讯
-港台电视31
-港台电视32
-港台电视33
-港台电视34
-港台电视35
-港台电视36
-TVB华丽台
-TVB星河台
-TVBJ1
-TVBJ2
+港台电台31
+港台电台32
+港台电台33
+港台电台34
+港台电台35
+港台电台36
+TVB 华丽台
+TVB 星河台
+TVB J1
+TVB J2
 
 ☘️广东频道,#genre#
 广东珠江
