@@ -31,7 +31,7 @@ https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
 https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt
 https://gitee.com/lwr851/live/raw/master/iptv.m3u
 https://supprise0901.github.io/TVBox_live/live.txt
-https://t.freetv.fun/m3u/china_original.txt
+
 https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u
 https://gitee.com/szwxk/watch-television/raw/master/wxk1.m3u
 https://gitee.com/king12985/tv/raw/master/lives/20180818.txt
