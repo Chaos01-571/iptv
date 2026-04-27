@@ -24,6 +24,7 @@
 # https://live.fanmingming.com/tv/m3u/iptv.m3u
 # https://live.zbds.top/tv/iptv6.m3u
 # http://rihou.cc:88/zb/migu720plist.txt
+http://iptv.4666888.xyz/FYTV.m3u
 # https://d.kstore.dev/download/15366/6988.txt
 https://gitee.com/hzxs800274/iptv/raw/master/live/TV
 https://d.kstore.dev/download/11344/yunduan.txt
