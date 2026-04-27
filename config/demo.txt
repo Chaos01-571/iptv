@@ -36,8 +36,9 @@ viu TV6
 港台电台36
 TVB 华丽台
 TVB 星河台
-TVB J1
-TVB J2
+TVBJ1
+TVBJ2
+明珠台
 
 ☘️广东频道,#genre#
 广东珠江
