@@ -7,7 +7,6 @@
 # https://gitee.com/q1017673817/fan/raw/iptv/zubo.txt
 # http://www.52top.com.cn:678/downloads/migu.txt
 # https://gitee.com/yu_shan_fei/vvvzhy/raw/zby/yu/yqk3.m3u
-# https://ds65.tv1288.xyz
 # https://gitee.com/jin-xueling/lingl/raw/master/hu.txt
 # https://45678888.xyz/iptv/proxy.php?sub=4d0be2911590a0a83fe915e9e9eb7443
 # https://45678888.xyz/iptv/proxy.php?sub=9eea6609748994bd9ebe3cfffc52215d
@@ -15,24 +14,53 @@
 # https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/yylunbo.m3u
 # https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
 # https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt
-# https://9730.kstore.space/%E9%A3%9B%E6%89%AC%E7%9B%B4%E6%92%AD.txt
 # https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
 # https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 # https://gitee.com/xiao-ping2/iptv-api/raw/master/output/xp_result.txt
 # https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
-# https://gitee.com/jin-xueling/cinematography/raw/master/json.txt
 # https://live.fanmingming.com/tv/m3u/iptv.m3u
 # https://live.zbds.top/tv/iptv6.m3u
 # http://rihou.cc:88/zb/migu720plist.txt
-http://iptv.4666888.xyz/FYTV.m3u
 # https://d.kstore.dev/download/15366/6988.txt
+# https://gitee.com/hw2837/iptv/raw/master/iptv
+# https://raw.githubusercontent.com/rad168/iptv/main/live.m3u
+接口集合
+前缘接口||
+壹米接口||
+日后接口||
+DS9接口||
+云端接口||
+测试接口||
+月下接口||
+DG接口||
+天空接口||
+念心接口||
+Wirili接口||
+咪咕接口||
+电视多接口||
+Box接口||
+易发接口||
+飞扬接口||
+天浪接口||
+DSJ接口||
+风云接口||
+TNT接口||
+裤佬接口||
+龙壹接口||
+潇宇接口||
+拾光接口||
+APTV接口||
+Guovin接口||
+网页接口||
+Web接口||
+娱乐接口||
+http://iptv.4666888.xyz/FYTV.m3u
 https://gitee.com/hzxs800274/iptv/raw/master/live/TV
 https://d.kstore.dev/download/11344/yunduan.txt
 https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
 https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt
 https://gitee.com/lwr851/live/raw/master/iptv.m3u
 https://supprise0901.github.io/TVBox_live/live.txt
-
 https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u
 https://gitee.com/szwxk/watch-television/raw/master/wxk1.m3u
 https://gitee.com/king12985/tv/raw/master/lives/20180818.txt
@@ -100,66 +128,36 @@ https://iptv-org.github.io/iptv/index.m3u
 https://epg.pw/test_channels_china.m3u
 https://live.zbds.top/tv/iptv4.m3u
 https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u
-
-# https://gitee.com/hw2837/iptv/raw/master/iptv
-# https://raw.githubusercontent.com/rad168/iptv/main/live.m3u
-接口集合
-
-https://gitee.com/jin-xueling/cinematography/raw/master/json.txt
-前缘接口||
-https://gitee.com/yimi321/tv/raw/master/tv.m3u
-壹米接口||
 http://rihou.cc:555/gggg.nzk
-日后接口||
 https://d.kstore.dev/download/12441/ds9.txt
-DS9接口||
 https://d.kstore.dev/download/11344/yunduan.txt
-云端接口||
 https://wget.la/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
-测试接口||
 https://wget.la/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-月下接口||
 http://1.94.31.214/live/live9/dgtv.txt
-DG接口||
 http://west.shaonv.me/tvbox/live.txt
-天空接口||
 https://wget.la/https://raw.githubusercontent.com/nianxinmj/nxpz/refs/heads/main/lib/live.txt
-念心接口||
 https://wget.la/https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt
-Wirili接口||
 https://wget.la/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-咪咕接口||
 https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
-电视多接口||
 https://wget.la/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
-Box接口||
 http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
-易发接口||
-https://9730.kstore.space/%E9%A3%9B%E6%89%AC%E7%9B%B4%E6%92%AD.txt
-飞扬接口||
 http://210.245.166.84:1299/live/live1.txt
-天浪接口||
 https://dsj-1312694395.cos.ap-guangzhou.myqcloud.com/dsj10.1.txt
-DSJ接口||
 http://iptv.4666888.xyz/FYTV.txt
-风云接口||
 https://wget.la/https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt
-TNT接口||
 https://wget.la/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
-裤佬接口||
 http://210.245.166.84:1299/live/live.txt
-龙壹接口||
-https://ds65.tv1288.xyz
-潇宇接口||
 https://wget.la/https://raw.githubusercontent.com/xmbjm/IPTV/master/output/user_result.m3u
-拾光接口||
 https://wget.la/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u
-APTV接口||
 https://wget.la/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
-Guovin接口||
 https://gongdian.top/tv/ku9/webview.txt#JS=https://gongdian.top/tv/ku9/js/webview.js
-网页接口||
 https://pan.vma.cc/pan/down.php/350735607a786faaaa69aa5bbe3a3078.txt
-Web接口||
-https://m.iill.top/Live.m3u
-娱乐接口||
+
+# https://ds65.tv1288.xyz
+# https://9730.kstore.space/%E9%A3%9B%E6%89%AC%E7%9B%B4%E6%92%AD.txt
+# https://gitee.com/jin-xueling/cinematography/raw/master/json.txt
+# https://gitee.com/jin-xueling/cinematography/raw/master/json.txt
+# https://gitee.com/yimi321/tv/raw/master/tv.m3u
+# https://9730.kstore.space/%E9%A3%9B%E6%89%AC%E7%9B%B4%E6%92%AD.txt
+# https://ds65.tv1288.xyz
+# https://m.iill.top/Live.m3u
