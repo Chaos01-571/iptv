@@ -24,36 +24,7 @@
 # https://d.kstore.dev/download/15366/6988.txt
 # https://gitee.com/hw2837/iptv/raw/master/iptv
 # https://raw.githubusercontent.com/rad168/iptv/main/live.m3u
-接口集合
-前缘接口||
-壹米接口||
-日后接口||
-DS9接口||
-云端接口||
-测试接口||
-月下接口||
-DG接口||
-天空接口||
-念心接口||
-Wirili接口||
-咪咕接口||
-电视多接口||
-Box接口||
-易发接口||
-飞扬接口||
-天浪接口||
-DSJ接口||
-风云接口||
-TNT接口||
-裤佬接口||
-龙壹接口||
-潇宇接口||
-拾光接口||
-APTV接口||
-Guovin接口||
-网页接口||
-Web接口||
-娱乐接口||
+
 http://iptv.4666888.xyz/FYTV.m3u
 https://gitee.com/hzxs800274/iptv/raw/master/live/TV
 https://d.kstore.dev/download/11344/yunduan.txt
