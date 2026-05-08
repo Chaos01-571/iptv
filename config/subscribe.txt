@@ -131,3 +131,5 @@
 # https://wget.la/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 # https://gongdian.top/tv/ku9/webview.txt#JS=https://gongdian.top/tv/ku9/js/webview.js
 # https://pan.vma.cc/pan/down.php/350735607a786faaaa69aa5bbe3a3078.txt
+https://o11.163189.xyz
+https://o11.163189.xyz/stream/
