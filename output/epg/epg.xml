@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
-<tv date="20260828210630 +0800">
+<tv date="20260829145408 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
 	<programme channel="CCTV-1" start="20260829000000 +0800" stop="20260829005000 +0800">
-		<title lang="zh">中国诗词大会(4)</title>
+		<title lang="zh">开始</title>
 	</programme>
 	<programme channel="CCTV-1" start="20260829005000 +0800" stop="20260829013400 +0800">
 		<title lang="zh">生活圈</title>
@@ -586,7 +586,7 @@
 		<display-name lang="zh">CCTV-9</display-name>
 	</channel>
 	<programme channel="CCTV-9" start="20260829000000 +0800" stop="20260829003100 +0800">
-		<title lang="zh">荒野狮群(3)</title>
+		<title lang="zh">开始</title>
 	</programme>
 	<programme channel="CCTV-9" start="20260829003100 +0800" stop="20260829012700 +0800">
 		<title lang="zh">穿越欧洲自然奇境(1)</title>
@@ -1017,11 +1017,11 @@
 	<programme channel="广东卫视" start="20260829222000 +0800" stop="20260829230800 +0800">
 		<title lang="zh">深潜(16)</title>
 	</programme>
-	<programme channel="广东卫视" start="20260829230800 +0800" stop="20260829235200 +0800">
+	<programme channel="广东卫视" start="20260829230800 +0800" stop="20260829235300 +0800">
 		<title lang="zh">深潜(17)</title>
 	</programme>
-	<programme channel="广东卫视" start="20260829235200 +0800" stop="20260829235959 +0800">
-		<title lang="zh">南粤4K画卷(260)</title>
+	<programme channel="广东卫视" start="20260829235300 +0800" stop="20260829235959 +0800">
+		<title lang="zh">51号兵站</title>
 	</programme>
 	<channel id="浙江卫视">
 		<display-name lang="zh">浙江卫视</display-name>
@@ -1131,73 +1131,70 @@
 	<channel id="江苏卫视">
 		<display-name lang="zh">江苏卫视</display-name>
 	</channel>
-	<programme channel="江苏卫视" start="20260829000000 +0800" stop="20260829002000 +0800">
+	<programme channel="江苏卫视" start="20260829000000 +0800" stop="20260829000600 +0800">
 		<title lang="zh">精彩呈现</title>
 	</programme>
-	<programme channel="江苏卫视" start="20260829002000 +0800" stop="20260829010600 +0800">
-		<title lang="zh">剧场</title>
+	<programme channel="江苏卫视" start="20260829000600 +0800" stop="20260829014400 +0800">
+		<title lang="zh">太平年</title>
 	</programme>
-	<programme channel="江苏卫视" start="20260829010600 +0800" stop="20260829023500 +0800">
-		<title lang="zh">剧场</title>
+	<programme channel="江苏卫视" start="20260829014400 +0800" stop="20260829023100 +0800">
+		<title lang="zh">太平年</title>
 	</programme>
-	<programme channel="江苏卫视" start="20260829023500 +0800" stop="20260829030300 +0800">
-		<title lang="zh">似是故人来</title>
+	<programme channel="江苏卫视" start="20260829023100 +0800" stop="20260829032300 +0800">
+		<title lang="zh">中华书院</title>
 	</programme>
-	<programme channel="江苏卫视" start="20260829030300 +0800" stop="20260829033300 +0800">
-		<title lang="zh">似是故人来</title>
+	<programme channel="江苏卫视" start="20260829032300 +0800" stop="20260829041900 +0800">
+		<title lang="zh">中华书院</title>
 	</programme>
-	<programme channel="江苏卫视" start="20260829033300 +0800" stop="20260829042700 +0800">
-		<title lang="zh">我在岛屿读书</title>
+	<programme channel="江苏卫视" start="20260829041900 +0800" stop="20260829044800 +0800">
+		<title lang="zh">江南文脉</title>
 	</programme>
-	<programme channel="江苏卫视" start="20260829042700 +0800" stop="20260829052000 +0800">
-		<title lang="zh">我在岛屿读书</title>
+	<programme channel="江苏卫视" start="20260829044800 +0800" stop="20260829053800 +0800">
+		<title lang="zh">子夜外卖</title>
 	</programme>
-	<programme channel="江苏卫视" start="20260829052000 +0800" stop="20260829060200 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="江苏卫视" start="20260829053800 +0800" stop="20260829060500 +0800">
+		<title lang="zh">似是故人来1</title>
 	</programme>
-	<programme channel="江苏卫视" start="20260829060200 +0800" stop="20260829062900 +0800">
+	<programme channel="江苏卫视" start="20260829060500 +0800" stop="20260829063500 +0800">
 		<title lang="zh">约见名医</title>
 	</programme>
-	<programme channel="江苏卫视" start="20260829062900 +0800" stop="20260829070000 +0800">
-		<title lang="zh">纪录片</title>
+	<programme channel="江苏卫视" start="20260829063500 +0800" stop="20260829070000 +0800">
+		<title lang="zh">诗画江南</title>
 	</programme>
 	<programme channel="江苏卫视" start="20260829070000 +0800" stop="20260829070200 +0800">
 		<title lang="zh">中华人民共和国国歌</title>
 	</programme>
-	<programme channel="江苏卫视" start="20260829070200 +0800" stop="20260829072300 +0800">
+	<programme channel="江苏卫视" start="20260829070200 +0800" stop="20260829072200 +0800">
 		<title lang="zh">江苏新时空</title>
 	</programme>
-	<programme channel="江苏卫视" start="20260829072300 +0800" stop="20260829080000 +0800">
-		<title lang="zh">上午剧场</title>
+	<programme channel="江苏卫视" start="20260829072200 +0800" stop="20260829074900 +0800">
+		<title lang="zh">黄金时间改革政策e解读</title>
 	</programme>
-	<programme channel="江苏卫视" start="20260829080000 +0800" stop="20260829081500 +0800">
-		<title lang="zh">少年故事大会</title>
+	<programme channel="江苏卫视" start="20260829074900 +0800" stop="20260829084200 +0800">
+		<title lang="zh">我爱古诗词3</title>
 	</programme>
-	<programme channel="江苏卫视" start="20260829081500 +0800" stop="20260829085800 +0800">
+	<programme channel="江苏卫视" start="20260829084200 +0800" stop="20260829092000 +0800">
 		<title lang="zh">灼灼韶华</title>
 	</programme>
-	<programme channel="江苏卫视" start="20260829085800 +0800" stop="20260829094000 +0800">
+	<programme channel="江苏卫视" start="20260829092000 +0800" stop="20260829103900 +0800">
 		<title lang="zh">灼灼韶华</title>
 	</programme>
-	<programme channel="江苏卫视" start="20260829094000 +0800" stop="20260829102500 +0800">
+	<programme channel="江苏卫视" start="20260829103900 +0800" stop="20260829112000 +0800">
 		<title lang="zh">灼灼韶华</title>
 	</programme>
-	<programme channel="江苏卫视" start="20260829102500 +0800" stop="20260829111200 +0800">
-		<title lang="zh">灼灼韶华</title>
-	</programme>
-	<programme channel="江苏卫视" start="20260829111200 +0800" stop="20260829120000 +0800">
+	<programme channel="江苏卫视" start="20260829112000 +0800" stop="20260829120000 +0800">
 		<title lang="zh">灼灼韶华</title>
 	</programme>
 	<programme channel="江苏卫视" start="20260829120000 +0800" stop="20260829123200 +0800">
 		<title lang="zh">正午江苏</title>
 	</programme>
-	<programme channel="江苏卫视" start="20260829123200 +0800" stop="20260829142900 +0800">
+	<programme channel="江苏卫视" start="20260829123200 +0800" stop="20260829141400 +0800">
 		<title lang="zh">非诚勿扰</title>
 	</programme>
-	<programme channel="江苏卫视" start="20260829142900 +0800" stop="20260829163400 +0800">
-		<title lang="zh">新相亲大会</title>
+	<programme channel="江苏卫视" start="20260829141400 +0800" stop="20260829163300 +0800">
+		<title lang="zh">非诚勿扰</title>
 	</programme>
-	<programme channel="江苏卫视" start="20260829163400 +0800" stop="20260829171600 +0800">
+	<programme channel="江苏卫视" start="20260829163300 +0800" stop="20260829171600 +0800">
 		<title lang="zh">长相思2</title>
 	</programme>
 	<programme channel="江苏卫视" start="20260829171600 +0800" stop="20260829180000 +0800">
@@ -1212,20 +1209,17 @@
 	<programme channel="江苏卫视" start="20260829190000 +0800" stop="20260829193000 +0800">
 		<title lang="zh">转播中央台新闻联播</title>
 	</programme>
-	<programme channel="江苏卫视" start="20260829193000 +0800" stop="20260829214400 +0800">
+	<programme channel="江苏卫视" start="20260829193000 +0800" stop="20260829214600 +0800">
 		<title lang="zh">江苏超会玩</title>
 	</programme>
-	<programme channel="江苏卫视" start="20260829214400 +0800" stop="20260829223700 +0800">
+	<programme channel="江苏卫视" start="20260829214600 +0800" stop="20260829230000 +0800">
 		<title lang="zh">职来职往</title>
-	</programme>
-	<programme channel="江苏卫视" start="20260829223700 +0800" stop="20260829230000 +0800">
-		<title lang="zh">荔枝追剧手册</title>
 	</programme>
 	<programme channel="江苏卫视" start="20260829230000 +0800" stop="20260829231500 +0800">
 		<title lang="zh">晚间新闻</title>
 	</programme>
 	<programme channel="江苏卫视" start="20260829231500 +0800" stop="20260829235959 +0800">
-		<title lang="zh">剧场</title>
+		<title lang="zh">太平年</title>
 	</programme>
 	<channel id="东南卫视">
 		<display-name lang="zh">东南卫视</display-name>
@@ -2352,6 +2346,303 @@
 	<programme channel="广东民生" start="20260829224500 +0800" stop="20260829233500 +0800">
 		<title lang="zh">DV现场</title>
 	</programme>
+	<channel id="港台电视 32">
+		<display-name lang="zh">港台电视 32</display-name>
+	</channel>
+	<programme channel="港台电视 32" start="20260829000000 +0800" stop="20260829001000 +0800">
+		<title lang="zh">时事脉动</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829001000 +0800" stop="20260829010000 +0800">
+		<title lang="zh">非凡香港</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829010000 +0800" stop="20260829013000 +0800">
+		<title lang="zh">广播道会客室</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829013000 +0800" stop="20260829020000 +0800">
+		<title lang="zh">凝聚香港</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829020000 +0800" stop="20260829025000 +0800">
+		<title lang="zh">寰宇直播</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829025000 +0800" stop="20260829073000 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829073000 +0800" stop="20260829073500 +0800">
+		<title lang="zh">盛事传城</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829073500 +0800" stop="20260829074000 +0800">
+		<title lang="zh">政正关你事官员讲话摘要</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829074000 +0800" stop="20260829080500 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829080500 +0800" stop="20260829090000 +0800">
+		<title lang="zh">星期六问责</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829090000 +0800" stop="20260829093000 +0800">
+		<title lang="zh">时事摘录</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829093000 +0800" stop="20260829093500 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829093500 +0800" stop="20260829103000 +0800">
+		<title lang="zh">理财新世代</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829103000 +0800" stop="20260829103500 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829103500 +0800" stop="20260829110000 +0800">
+		<title lang="zh">凝聚香港</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829110000 +0800" stop="20260829111000 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829111000 +0800" stop="20260829112000 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829112000 +0800" stop="20260829113000 +0800">
+		<title lang="zh">国宝时刻</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829113000 +0800" stop="20260829114000 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829114000 +0800" stop="20260829120000 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829120000 +0800" stop="20260829121000 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829121000 +0800" stop="20260829122000 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829122000 +0800" stop="20260829123000 +0800">
+		<title lang="zh">国宝时刻</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829123000 +0800" stop="20260829124000 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829124000 +0800" stop="20260829130000 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829130000 +0800" stop="20260829130700 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829130700 +0800" stop="20260829132000 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829132000 +0800" stop="20260829133000 +0800">
+		<title lang="zh">国宝时刻</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829133000 +0800" stop="20260829133700 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829133700 +0800" stop="20260829140000 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829140000 +0800" stop="20260829141000 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829141000 +0800" stop="20260829142000 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829142000 +0800" stop="20260829143000 +0800">
+		<title lang="zh">国宝时刻</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829143000 +0800" stop="20260829144000 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829144000 +0800" stop="20260829150000 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829150000 +0800" stop="20260829151000 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829151000 +0800" stop="20260829152000 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829152000 +0800" stop="20260829153000 +0800">
+		<title lang="zh">国宝时刻</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829153000 +0800" stop="20260829154000 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829154000 +0800" stop="20260829160000 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829160000 +0800" stop="20260829161000 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829161000 +0800" stop="20260829162000 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829162000 +0800" stop="20260829163000 +0800">
+		<title lang="zh">国宝时刻</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829163000 +0800" stop="20260829164000 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829164000 +0800" stop="20260829170000 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829170000 +0800" stop="20260829171000 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829171000 +0800" stop="20260829172000 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829172000 +0800" stop="20260829173000 +0800">
+		<title lang="zh">国宝时刻</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829173000 +0800" stop="20260829174000 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829174000 +0800" stop="20260829180000 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829180000 +0800" stop="20260829181000 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829181000 +0800" stop="20260829182000 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829182000 +0800" stop="20260829183000 +0800">
+		<title lang="zh">国宝时刻</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829183000 +0800" stop="20260829184000 +0800">
+		<title lang="zh">新闻简报</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829184000 +0800" stop="20260829190000 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829190000 +0800" stop="20260829191500 +0800">
+		<title lang="zh">新闻天地</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829191500 +0800" stop="20260829193000 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829193000 +0800" stop="20260829200000 +0800">
+		<title lang="zh">双城联动</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829200000 +0800" stop="20260829201000 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829201000 +0800" stop="20260829201500 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829201500 +0800" stop="20260829202000 +0800">
+		<title lang="zh">盛事传城</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829202000 +0800" stop="20260829203000 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829203000 +0800" stop="20260829210000 +0800">
+		<title lang="zh">时事摘录</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829210000 +0800" stop="20260829220000 +0800">
+		<title lang="zh">星期六问责</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829220000 +0800" stop="20260829220500 +0800">
+		<title lang="zh">政正关你事</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829220500 +0800" stop="20260829230000 +0800">
+		<title lang="zh">理财新世代</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829230000 +0800" stop="20260829233000 +0800">
+		<title lang="zh">双城联动</title>
+	</programme>
+	<programme channel="港台电视 32" start="20260829233000 +0800" stop="20260829000000 +0800">
+		<title lang="zh">生活健康资讯</title>
+	</programme>
+	<channel id="南国都市4K">
+		<display-name lang="zh">南国都市4K</display-name>
+	</channel>
+	<programme channel="南国都市4K" start="20260829000000 +0800" stop="20260829040000 +0800">
+		<title lang="zh">十五运赛场</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829040000 +0800" stop="20260829050000 +0800">
+		<title lang="zh">健康运动家</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829050000 +0800" stop="20260829053000 +0800">
+		<title lang="zh">江南好风味</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829053000 +0800" stop="20260829060000 +0800">
+		<title lang="zh">觅江南</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829060000 +0800" stop="20260829063000 +0800">
+		<title lang="zh">缤纷童真</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829063000 +0800" stop="20260829070000 +0800">
+		<title lang="zh">逛遍全中国</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829070000 +0800" stop="20260829080000 +0800">
+		<title lang="zh">十大猎手家族</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829080000 +0800" stop="20260829083000 +0800">
+		<title lang="zh">自然奇迹</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829083000 +0800" stop="20260829090000 +0800">
+		<title lang="zh">情满夕阳</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829090000 +0800" stop="20260829100000 +0800">
+		<title lang="zh">十大猎手家族</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829100000 +0800" stop="20260829103000 +0800">
+		<title lang="zh">螃蟹老师做手工</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829103000 +0800" stop="20260829110000 +0800">
+		<title lang="zh">自然奇迹</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829110000 +0800" stop="20260829113000 +0800">
+		<title lang="zh">江南好风味</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829113000 +0800" stop="20260829120000 +0800">
+		<title lang="zh">觅江南</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829120000 +0800" stop="20260829140000 +0800">
+		<title lang="zh">湾区体育季</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829140000 +0800" stop="20260829143000 +0800">
+		<title lang="zh">十大动物生化危机</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829143000 +0800" stop="20260829150000 +0800">
+		<title lang="zh">湾区政能量</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829150000 +0800" stop="20260829160000 +0800">
+		<title lang="zh">超高清展播</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829160000 +0800" stop="20260829163000 +0800">
+		<title lang="zh">觅江南</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829163000 +0800" stop="20260829170000 +0800">
+		<title lang="zh">教育大咖说</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829170000 +0800" stop="20260829180000 +0800">
+		<title lang="zh">成长不烦恼</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829180000 +0800" stop="20260829183000 +0800">
+		<title lang="zh">缤纷童真</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829183000 +0800" stop="20260829190000 +0800">
+		<title lang="zh">自然奇迹</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829190000 +0800" stop="20260829200000 +0800">
+		<title lang="zh">十大猎手家族</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829200000 +0800" stop="20260829210000 +0800">
+		<title lang="zh">超高清展播</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829210000 +0800" stop="20260829213000 +0800">
+		<title lang="zh">十大动物生化危机</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829213000 +0800" stop="20260829220000 +0800">
+		<title lang="zh">追光岁月湾区文化名人访谈录</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829220000 +0800" stop="20260829230000 +0800">
+		<title lang="zh">十大猎手家族</title>
+	</programme>
+	<programme channel="南国都市4K" start="20260829230000 +0800" stop="20260829235900 +0800">
+		<title lang="zh">超高清展播</title>
+	</programme>
 	<channel id="广州新闻">
 		<display-name lang="zh">广州新闻</display-name>
 	</channel>
@@ -2475,180 +2766,6 @@
 	<channel id="TVB News">
 		<display-name lang="zh">TVB News</display-name>
 	</channel>
-	<programme channel="TVB News" start="20260828060000 +0800" stop="20260828063000 +0800">
-		<title lang="zh">香港早晨</title>
-	</programme>
-	<programme channel="TVB News" start="20260828063000 +0800" stop="20260828070000 +0800">
-		<title lang="zh">香港早晨</title>
-	</programme>
-	<programme channel="TVB News" start="20260828070000 +0800" stop="20260828073000 +0800">
-		<title lang="zh">香港早晨</title>
-	</programme>
-	<programme channel="TVB News" start="20260828073000 +0800" stop="20260828074000 +0800">
-		<title lang="zh">香港早晨 及 交通消息</title>
-	</programme>
-	<programme channel="TVB News" start="20260828074000 +0800" stop="20260828074500 +0800">
-		<title lang="zh">环球新闻档案</title>
-	</programme>
-	<programme channel="TVB News" start="20260828074500 +0800" stop="20260828083000 +0800">
-		<title lang="zh">香港早晨 及 交通消息</title>
-	</programme>
-	<programme channel="TVB News" start="20260828083000 +0800" stop="20260828090000 +0800">
-		<title lang="zh">香港早晨 及 交通消息</title>
-	</programme>
-	<programme channel="TVB News" start="20260828090000 +0800" stop="20260828093000 +0800">
-		<title lang="zh">新闻报道 及 俯瞰神州 及 中华掠影</title>
-	</programme>
-	<programme channel="TVB News" start="20260828093000 +0800" stop="20260828100000 +0800">
-		<title lang="zh">开市第一击 及 国宝时刻 及 新闻报道 及 三日天气预报</title>
-	</programme>
-	<programme channel="TVB News" start="20260828100000 +0800" stop="20260828103000 +0800">
-		<title lang="zh">新闻报道 及 才骏HASHTAG AI 点只科技股</title>
-	</programme>
-	<programme channel="TVB News" start="20260828103000 +0800" stop="20260828104500 +0800">
-		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
-	</programme>
-	<programme channel="TVB News" start="20260828104500 +0800" stop="20260828105500 +0800">
-		<title lang="zh">新闻报道 及 新鸿基信贷特约: 港楼 . 讲楼</title>
-	</programme>
-	<programme channel="TVB News" start="20260828105500 +0800" stop="20260828110000 +0800">
-		<title lang="zh">环球新闻档案</title>
-	</programme>
-	<programme channel="TVB News" start="20260828110000 +0800" stop="20260828113000 +0800">
-		<title lang="zh">新闻报道 及 新闻档案 及 马百良熬鸡精呈献 : 四季食疗</title>
-	</programme>
-	<programme channel="TVB News" start="20260828113000 +0800" stop="20260828120000 +0800">
-		<title lang="zh">新闻报道 及 三日天气预报 及 时事通识</title>
-	</programme>
-	<programme channel="TVB News" start="20260828120000 +0800" stop="20260828123000 +0800">
-		<title lang="zh">午间新闻 及 国宝时刻 及 新鸿基信贷特约: 港楼 . 讲楼</title>
-	</programme>
-	<programme channel="TVB News" start="20260828123000 +0800" stop="20260828130000 +0800">
-		<title lang="zh">午间新闻</title>
-	</programme>
-	<programme channel="TVB News" start="20260828130000 +0800" stop="20260828133000 +0800">
-		<title lang="zh">新闻报道 及 俯瞰神州 及 中华掠影 及 时事通识</title>
-	</programme>
-	<programme channel="TVB News" start="20260828133000 +0800" stop="20260828140000 +0800">
-		<title lang="zh">新闻报道 及 三日天气预报</title>
-	</programme>
-	<programme channel="TVB News" start="20260828140000 +0800" stop="20260828143000 +0800">
-		<title lang="zh">新闻报道 及 新闻档案</title>
-	</programme>
-	<programme channel="TVB News" start="20260828143000 +0800" stop="20260828144500 +0800">
-		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
-	</programme>
-	<programme channel="TVB News" start="20260828144500 +0800" stop="20260828150000 +0800">
-		<title lang="zh">新闻报道 及 新鸿基信贷特约: 港楼 . 讲楼</title>
-	</programme>
-	<programme channel="TVB News" start="20260828150000 +0800" stop="20260828153000 +0800">
-		<title lang="zh">新闻报道 及 深港沪快讯 及 环球新闻档案</title>
-	</programme>
-	<programme channel="TVB News" start="20260828153000 +0800" stop="20260828160000 +0800">
-		<title lang="zh">新闻报道 及 才骏HASHTAG AI 点只科技股 及 三日天气预报 及 国宝时刻</title>
-	</programme>
-	<programme channel="TVB News" start="20260828160000 +0800" stop="20260828163000 +0800">
-		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
-	</programme>
-	<programme channel="TVB News" start="20260828163000 +0800" stop="20260828170000 +0800">
-		<title lang="zh">新闻报道 及 俯瞰神州 及 中华掠影</title>
-	</programme>
-	<programme channel="TVB News" start="20260828170000 +0800" stop="20260828172500 +0800">
-		<title lang="zh">新闻报道 及 新鸿基信贷特约: 港楼 . 讲楼</title>
-	</programme>
-	<programme channel="TVB News" start="20260828172500 +0800" stop="20260828173000 +0800">
-		<title lang="zh">新闻档案</title>
-	</programme>
-	<programme channel="TVB News" start="20260828173000 +0800" stop="20260828180000 +0800">
-		<title lang="zh">新闻报道 及 交通消息 及 三日天气预报 及 马百良熬鸡精呈献 : 四季食疗</title>
-	</programme>
-	<programme channel="TVB News" start="20260828180000 +0800" stop="20260828183000 +0800">
-		<title lang="zh">新闻报道 及 交通消息 及 时事通识 及 国宝时刻</title>
-	</programme>
-	<programme channel="TVB News" start="20260828183000 +0800" stop="20260828190000 +0800">
-		<title lang="zh">手语新闻报道</title>
-	</programme>
-	<programme channel="TVB News" start="20260828190000 +0800" stop="20260828193000 +0800">
-		<title lang="zh">新闻报道 及 新鸿基信贷特约: 港楼 . 讲楼</title>
-	</programme>
-	<programme channel="TVB News" start="20260828193000 +0800" stop="20260828200000 +0800">
-		<title lang="zh">新闻报道</title>
-	</programme>
-	<programme channel="TVB News" start="20260828200000 +0800" stop="20260828200500 +0800">
-		<title lang="zh">富途证券特约: 富途讲美股</title>
-	</programme>
-	<programme channel="TVB News" start="20260828200500 +0800" stop="20260828203000 +0800">
-		<title lang="zh">无线8点一小时新闻</title>
-	</programme>
-	<programme channel="TVB News" start="20260828203000 +0800" stop="20260828205000 +0800">
-		<title lang="zh">时事中国 及 无线8点一小时新闻</title>
-	</programme>
-	<programme channel="TVB News" start="20260828205000 +0800" stop="20260828210000 +0800">
-		<title lang="zh">立桥人寿特约: 天气报告 及 新鸿基信贷特约: 港楼 . 讲楼</title>
-	</programme>
-	<programme channel="TVB News" start="20260828210000 +0800" stop="20260828213000 +0800">
-		<title lang="zh">新闻报道 及 大国外交 及 新闻档案 及 PicoLabb 特约: 世界观</title>
-	</programme>
-	<programme channel="TVB News" start="20260828213000 +0800" stop="20260828214500 +0800">
-		<title lang="zh">时事多面睇</title>
-	</programme>
-	<programme channel="TVB News" start="20260828214500 +0800" stop="20260828215500 +0800">
-		<title lang="zh">新闻报道 及 立桥人寿特约: 天气报告</title>
-	</programme>
-	<programme channel="TVB News" start="20260828215500 +0800" stop="20260828220000 +0800">
-		<title lang="zh">环球新闻档案</title>
-	</programme>
-	<programme channel="TVB News" start="20260828220000 +0800" stop="20260828223000 +0800">
-		<title lang="zh">新闻报道 及 大国外交 及 时事通识</title>
-	</programme>
-	<programme channel="TVB News" start="20260828223000 +0800" stop="20260828224000 +0800">
-		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
-	</programme>
-	<programme channel="TVB News" start="20260828224000 +0800" stop="20260828230000 +0800">
-		<title lang="zh">财经多国度 及 新闻报道 及 三日天气预报</title>
-	</programme>
-	<programme channel="TVB News" start="20260828230000 +0800" stop="20260828233000 +0800">
-		<title lang="zh">晚间新闻 及 大国外交 及 新鸿基信贷特约: 港楼 . 讲楼</title>
-	</programme>
-	<programme channel="TVB News" start="20260828233000 +0800" stop="20260829000000 +0800">
-		<title lang="zh">晚间新闻 及 国宝时刻 及 时事中国 及 时事通识</title>
-	</programme>
-	<programme channel="TVB News" start="20260829000000 +0800" stop="20260829003000 +0800">
-		<title lang="zh">深宵新闻报道 及 新闻档案</title>
-	</programme>
-	<programme channel="TVB News" start="20260829003000 +0800" stop="20260829010000 +0800">
-		<title lang="zh">深宵新闻报道 及 俯瞰神州 及 三日天气预报</title>
-	</programme>
-	<programme channel="TVB News" start="20260829010000 +0800" stop="20260829013000 +0800">
-		<title lang="zh">深宵新闻报道 及 时事多面睇</title>
-	</programme>
-	<programme channel="TVB News" start="20260829013000 +0800" stop="20260829020000 +0800">
-		<title lang="zh">深宵新闻报道 及 时事中国</title>
-	</programme>
-	<programme channel="TVB News" start="20260829020000 +0800" stop="20260829023000 +0800">
-		<title lang="zh">深宵新闻报道 及 三日天气预报 及 PicoLabb 特约: 世界观</title>
-	</programme>
-	<programme channel="TVB News" start="20260829023000 +0800" stop="20260829030000 +0800">
-		<title lang="zh">利嘉阁地产45周年真盘源特约: 今日有楼睇</title>
-	</programme>
-	<programme channel="TVB News" start="20260829030000 +0800" stop="20260829033000 +0800">
-		<title lang="zh">深宵新闻报道 及 时事多面睇</title>
-	</programme>
-	<programme channel="TVB News" start="20260829033000 +0800" stop="20260829040000 +0800">
-		<title lang="zh">深宵新闻报道 及 俯瞰神州 及 时事中国</title>
-	</programme>
-	<programme channel="TVB News" start="20260829040000 +0800" stop="20260829043000 +0800">
-		<title lang="zh">深宵新闻报道 及 PicoLabb 特约: 世界观 及 中华掠影</title>
-	</programme>
-	<programme channel="TVB News" start="20260829043000 +0800" stop="20260829050000 +0800">
-		<title lang="zh">利嘉阁地产45周年真盘源特约: 今日有楼睇 及 三日天气预报</title>
-	</programme>
-	<programme channel="TVB News" start="20260829050000 +0800" stop="20260829053000 +0800">
-		<title lang="zh">深宵新闻报道 及 时事多面睇</title>
-	</programme>
-	<programme channel="TVB News" start="20260829053000 +0800" stop="20260829060000 +0800">
-		<title lang="zh">深宵新闻报道 及 时事中国</title>
-	</programme>
 	<programme channel="TVB News" start="20260829060000 +0800" stop="20260829063000 +0800">
 		<title lang="zh">香港早晨</title>
 	</programme>
@@ -3108,538 +3225,163 @@
 	<programme channel="TVB News" start="20260901050000 +0800" stop="20260901053000 +0800">
 		<title lang="zh">深宵新闻报道 及 时事多面睇</title>
 	</programme>
-	<channel id="南国都市4K">
-		<display-name lang="zh">南国都市4K</display-name>
-	</channel>
-	<programme channel="南国都市4K" start="20260823000000 +0800" stop="20260823040000 +0800">
-		<title lang="zh">湾区体育季</title>
+	<programme channel="TVB News" start="20260901053000 +0800" stop="20260901060000 +0800">
+		<title lang="zh">深宵新闻报道 及 时事中国</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823040000 +0800" stop="20260823050000 +0800">
-		<title lang="zh">超高清展播</title>
+	<programme channel="TVB News" start="20260901060000 +0800" stop="20260901063000 +0800">
+		<title lang="zh">香港早晨</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823050000 +0800" stop="20260823053000 +0800">
-		<title lang="zh">十大动物生化危机</title>
+	<programme channel="TVB News" start="20260901063000 +0800" stop="20260901070000 +0800">
+		<title lang="zh">香港早晨</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823053000 +0800" stop="20260823060000 +0800">
-		<title lang="zh">追光岁月湾区文化名人访谈录</title>
+	<programme channel="TVB News" start="20260901070000 +0800" stop="20260901073000 +0800">
+		<title lang="zh">香港早晨</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823060000 +0800" stop="20260823063000 +0800">
-		<title lang="zh">缤纷童真</title>
+	<programme channel="TVB News" start="20260901073000 +0800" stop="20260901074000 +0800">
+		<title lang="zh">香港早晨 及 交通消息</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823063000 +0800" stop="20260823070000 +0800">
-		<title lang="zh">逛遍全中国</title>
+	<programme channel="TVB News" start="20260901074000 +0800" stop="20260901074500 +0800">
+		<title lang="zh">环球新闻档案</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823070000 +0800" stop="20260823080000 +0800">
-		<title lang="zh">健康运动家</title>
+	<programme channel="TVB News" start="20260901074500 +0800" stop="20260901083000 +0800">
+		<title lang="zh">香港早晨 及 交通消息</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823080000 +0800" stop="20260823090000 +0800">
-		<title lang="zh">超高清展播</title>
+	<programme channel="TVB News" start="20260901083000 +0800" stop="20260901090000 +0800">
+		<title lang="zh">香港早晨 及 交通消息</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823090000 +0800" stop="20260823101500 +0800">
-		<title lang="zh">健康运动家</title>
+	<programme channel="TVB News" start="20260901090000 +0800" stop="20260901093000 +0800">
+		<title lang="zh">新闻报道 及 俯瞰神州 及 中华掠影</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823101500 +0800" stop="20260823103000 +0800">
-		<title lang="zh">情满夕阳</title>
+	<programme channel="TVB News" start="20260901093000 +0800" stop="20260901100000 +0800">
+		<title lang="zh">开市第一击 及 新闻报道 及 三日天气预报</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823103000 +0800" stop="20260823110000 +0800">
-		<title lang="zh">逛遍全中国</title>
+	<programme channel="TVB News" start="20260901100000 +0800" stop="20260901103000 +0800">
+		<title lang="zh">新闻报道 及 时事多面睇</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823110000 +0800" stop="20260823113000 +0800">
-		<title lang="zh">十大动物生化危机</title>
+	<programme channel="TVB News" start="20260901103000 +0800" stop="20260901104500 +0800">
+		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823113000 +0800" stop="20260823120000 +0800">
-		<title lang="zh">追光岁月湾区文化名人访谈录</title>
+	<programme channel="TVB News" start="20260901104500 +0800" stop="20260901110000 +0800">
+		<title lang="zh">新闻报道 及 环球新闻档案</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823120000 +0800" stop="20260823140000 +0800">
-		<title lang="zh">湾区体育季</title>
+	<programme channel="TVB News" start="20260901110000 +0800" stop="20260901113000 +0800">
+		<title lang="zh">新闻报道 及 新闻档案</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823140000 +0800" stop="20260823150000 +0800">
-		<title lang="zh">超高清展播</title>
+	<programme channel="TVB News" start="20260901113000 +0800" stop="20260901120000 +0800">
+		<title lang="zh">新闻报道 及 有理说得清 及 三日天气预报 及 时事通识</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823150000 +0800" stop="20260823153000 +0800">
-		<title lang="zh">十大动物生化危机</title>
+	<programme channel="TVB News" start="20260901120000 +0800" stop="20260901123000 +0800">
+		<title lang="zh">午间新闻</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823153000 +0800" stop="20260823160000 +0800">
-		<title lang="zh">追光岁月湾区文化名人访谈录</title>
+	<programme channel="TVB News" start="20260901123000 +0800" stop="20260901130000 +0800">
+		<title lang="zh">午间新闻 及 时事多面睇</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823160000 +0800" stop="20260823163000 +0800">
-		<title lang="zh">毕节环游记</title>
+	<programme channel="TVB News" start="20260901130000 +0800" stop="20260901133000 +0800">
+		<title lang="zh">新闻报道 及 俯瞰神州 及 中华掠影 及 时事通识</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823163000 +0800" stop="20260823170000 +0800">
-		<title lang="zh">教育大咖说</title>
+	<programme channel="TVB News" start="20260901133000 +0800" stop="20260901140000 +0800">
+		<title lang="zh">新闻报道 及 三日天气预报</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823170000 +0800" stop="20260823181500 +0800">
-		<title lang="zh">成长不烦恼</title>
+	<programme channel="TVB News" start="20260901140000 +0800" stop="20260901143000 +0800">
+		<title lang="zh">新闻报道 及 新闻档案</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823181500 +0800" stop="20260823183000 +0800">
-		<title lang="zh">走进超高清</title>
+	<programme channel="TVB News" start="20260901143000 +0800" stop="20260901150000 +0800">
+		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823183000 +0800" stop="20260823190000 +0800">
-		<title lang="zh">逛遍全中国</title>
+	<programme channel="TVB News" start="20260901150000 +0800" stop="20260901153000 +0800">
+		<title lang="zh">新闻报道 及 深港沪快讯 及 环球新闻档案</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823190000 +0800" stop="20260823200000 +0800">
-		<title lang="zh">科创代言人</title>
+	<programme channel="TVB News" start="20260901153000 +0800" stop="20260901160000 +0800">
+		<title lang="zh">新闻报道 及 有理说得清 及 三日天气预报</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823200000 +0800" stop="20260823210000 +0800">
-		<title lang="zh">超高清诗音画</title>
+	<programme channel="TVB News" start="20260901160000 +0800" stop="20260901163000 +0800">
+		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823210000 +0800" stop="20260823211500 +0800">
-		<title lang="zh">谈校有鸿儒</title>
+	<programme channel="TVB News" start="20260901163000 +0800" stop="20260901170000 +0800">
+		<title lang="zh">新闻报道 及 俯瞰神州 及 中华掠影</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823211500 +0800" stop="20260823213000 +0800">
-		<title lang="zh">情满夕阳</title>
+	<programme channel="TVB News" start="20260901170000 +0800" stop="20260901173000 +0800">
+		<title lang="zh">新闻报道 及 新闻档案</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823213000 +0800" stop="20260823220000 +0800">
-		<title lang="zh">时尚荟萃</title>
+	<programme channel="TVB News" start="20260901173000 +0800" stop="20260901180000 +0800">
+		<title lang="zh">新闻报道 及 交通消息 及 三日天气预报</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823220000 +0800" stop="20260823230000 +0800">
-		<title lang="zh">科创代言人</title>
+	<programme channel="TVB News" start="20260901180000 +0800" stop="20260901183000 +0800">
+		<title lang="zh">新闻报道 及 交通消息 及 时事通识</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260823230000 +0800" stop="20260823235900 +0800">
-		<title lang="zh">超高清诗音画</title>
+	<programme channel="TVB News" start="20260901183000 +0800" stop="20260901190000 +0800">
+		<title lang="zh">手语新闻报道</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824000000 +0800" stop="20260824040000 +0800">
-		<title lang="zh">湾区体育季</title>
+	<programme channel="TVB News" start="20260901190000 +0800" stop="20260901193000 +0800">
+		<title lang="zh">新闻报道</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824040000 +0800" stop="20260824050000 +0800">
-		<title lang="zh">科创代言人</title>
+	<programme channel="TVB News" start="20260901193000 +0800" stop="20260901200000 +0800">
+		<title lang="zh">新闻报道</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824050000 +0800" stop="20260824051500 +0800">
-		<title lang="zh">谈校有鸿儒</title>
+	<programme channel="TVB News" start="20260901200000 +0800" stop="20260901203000 +0800">
+		<title lang="zh">无线8点一小时新闻</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824051500 +0800" stop="20260824053000 +0800">
-		<title lang="zh">走进超高清</title>
+	<programme channel="TVB News" start="20260901203000 +0800" stop="20260901205000 +0800">
+		<title lang="zh">时事中国 及 无线8点一小时新闻</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824053000 +0800" stop="20260824060000 +0800">
-		<title lang="zh">时尚荟萃</title>
+	<programme channel="TVB News" start="20260901205000 +0800" stop="20260901210000 +0800">
+		<title lang="zh">立桥人寿特约: 天气报告</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824060000 +0800" stop="20260824070000 +0800">
-		<title lang="zh">逛遍全中国</title>
+	<programme channel="TVB News" start="20260901210000 +0800" stop="20260901213000 +0800">
+		<title lang="zh">新闻报道 及 大国外交 及 新闻档案 及 PicoLabb 特约: 世界观</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824070000 +0800" stop="20260824080000 +0800">
-		<title lang="zh">科创代言人</title>
+	<programme channel="TVB News" start="20260901213000 +0800" stop="20260901215500 +0800">
+		<title lang="zh">新闻报道 及 立桥人寿特约: 天气报告</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824080000 +0800" stop="20260824090000 +0800">
-		<title lang="zh">超高清诗音画</title>
+	<programme channel="TVB News" start="20260901215500 +0800" stop="20260901220000 +0800">
+		<title lang="zh">环球新闻档案</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824090000 +0800" stop="20260824100000 +0800">
-		<title lang="zh">科创代言人</title>
+	<programme channel="TVB News" start="20260901220000 +0800" stop="20260901223000 +0800">
+		<title lang="zh">新闻报道 及 大国外交 及 时事通识</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824100000 +0800" stop="20260824103000 +0800">
-		<title lang="zh">螃蟹老师做手工</title>
+	<programme channel="TVB News" start="20260901223000 +0800" stop="20260901224000 +0800">
+		<title lang="zh">新闻报道 及 PicoLabb 特约: 世界观</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824103000 +0800" stop="20260824110000 +0800">
-		<title lang="zh">逛遍全中国</title>
+	<programme channel="TVB News" start="20260901224000 +0800" stop="20260901230000 +0800">
+		<title lang="zh">财经多国度 及 新闻报道 及 三日天气预报</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824110000 +0800" stop="20260824111500 +0800">
-		<title lang="zh">谈校有鸿儒</title>
+	<programme channel="TVB News" start="20260901230000 +0800" stop="20260901233000 +0800">
+		<title lang="zh">晚间新闻 及 有理说得清 及 大国外交</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824111500 +0800" stop="20260824113000 +0800">
-		<title lang="zh">走进超高清</title>
+	<programme channel="TVB News" start="20260901233000 +0800" stop="20260902000000 +0800">
+		<title lang="zh">晚间新闻 及 时事中国 及 时事通识</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824113000 +0800" stop="20260824120000 +0800">
-		<title lang="zh">时尚荟萃</title>
+	<programme channel="TVB News" start="20260902000000 +0800" stop="20260902003000 +0800">
+		<title lang="zh">深宵新闻报道 及 新闻档案</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824120000 +0800" stop="20260824130000 +0800">
-		<title lang="zh">科创代言人</title>
+	<programme channel="TVB News" start="20260902003000 +0800" stop="20260902010000 +0800">
+		<title lang="zh">深宵新闻报道 及 俯瞰神州 及 三日天气预报</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824130000 +0800" stop="20260824140000 +0800">
-		<title lang="zh">超高清诗音画</title>
+	<programme channel="TVB News" start="20260902010000 +0800" stop="20260902013000 +0800">
+		<title lang="zh">深宵新闻报道</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824140000 +0800" stop="20260824150000 +0800">
-		<title lang="zh">科创代言人</title>
+	<programme channel="TVB News" start="20260902013000 +0800" stop="20260902020000 +0800">
+		<title lang="zh">深宵新闻报道 及 时事中国</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824150000 +0800" stop="20260824170000 +0800">
-		<title lang="zh">十五运赛场</title>
+	<programme channel="TVB News" start="20260902020000 +0800" stop="20260902023000 +0800">
+		<title lang="zh">深宵新闻报道 及 三日天气预报 及 PicoLabb 特约: 世界观</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824170000 +0800" stop="20260824173000 +0800">
-		<title lang="zh">螃蟹老师做手工</title>
+	<programme channel="TVB News" start="20260902023000 +0800" stop="20260902030000 +0800">
+		<title lang="zh">马百良六宝灵芝呈献: 最强生命线</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824173000 +0800" stop="20260824180000 +0800">
-		<title lang="zh">燃烧吧卡路里</title>
+	<programme channel="TVB News" start="20260902030000 +0800" stop="20260902033000 +0800">
+		<title lang="zh">深宵新闻报道</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824180000 +0800" stop="20260824183000 +0800">
-		<title lang="zh">缤纷童真</title>
+	<programme channel="TVB News" start="20260902033000 +0800" stop="20260902040000 +0800">
+		<title lang="zh">深宵新闻报道 及 俯瞰神州 及 时事中国</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824183000 +0800" stop="20260824190000 +0800">
-		<title lang="zh">逛遍全中国</title>
+	<programme channel="TVB News" start="20260902040000 +0800" stop="20260902043000 +0800">
+		<title lang="zh">深宵新闻报道 及 PicoLabb 特约: 世界观 及 中华掠影</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824190000 +0800" stop="20260824200000 +0800">
-		<title lang="zh">健康运动家</title>
+	<programme channel="TVB News" start="20260902043000 +0800" stop="20260902050000 +0800">
+		<title lang="zh">马百良六宝灵芝呈献: 最强生命线 及 三日天气预报</title>
 	</programme>
-	<programme channel="南国都市4K" start="20260824200000 +0800" stop="20260824203000 +0800">
-		<title lang="zh">皖美风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260824203000 +0800" stop="20260824210000 +0800">
-		<title lang="zh">轻氧日记</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260824210000 +0800" stop="20260824213000 +0800">
-		<title lang="zh">江南好风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260824213000 +0800" stop="20260824220000 +0800">
-		<title lang="zh">觅江南</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260824220000 +0800" stop="20260824230000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260824230000 +0800" stop="20260824233000 +0800">
-		<title lang="zh">皖美风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260824233000 +0800" stop="20260824235900 +0800">
-		<title lang="zh">轻氧日记</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825000000 +0800" stop="20260825070000 +0800">
-		<title lang="zh">精彩呈现</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825070000 +0800" stop="20260825080000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825080000 +0800" stop="20260825083000 +0800">
-		<title lang="zh">皖美风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825083000 +0800" stop="20260825090000 +0800">
-		<title lang="zh">轻氧日记</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825090000 +0800" stop="20260825100000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825100000 +0800" stop="20260825103000 +0800">
-		<title lang="zh">螃蟹老师做手工</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825103000 +0800" stop="20260825110000 +0800">
-		<title lang="zh">逛遍全中国</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825110000 +0800" stop="20260825113000 +0800">
-		<title lang="zh">江南好风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825113000 +0800" stop="20260825120000 +0800">
-		<title lang="zh">觅江南</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825120000 +0800" stop="20260825130000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825130000 +0800" stop="20260825133000 +0800">
-		<title lang="zh">皖美风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825133000 +0800" stop="20260825140000 +0800">
-		<title lang="zh">轻氧日记</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825140000 +0800" stop="20260825150000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825150000 +0800" stop="20260825170000 +0800">
-		<title lang="zh">十五运赛场</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825170000 +0800" stop="20260825173000 +0800">
-		<title lang="zh">螃蟹老师做手工</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825173000 +0800" stop="20260825180000 +0800">
-		<title lang="zh">拜托了大厨</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825180000 +0800" stop="20260825183000 +0800">
-		<title lang="zh">缤纷童真</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825183000 +0800" stop="20260825190000 +0800">
-		<title lang="zh">逛遍全中国</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825190000 +0800" stop="20260825200000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825200000 +0800" stop="20260825203000 +0800">
-		<title lang="zh">皖美风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825203000 +0800" stop="20260825210000 +0800">
-		<title lang="zh">轻氧日记</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825210000 +0800" stop="20260825213000 +0800">
-		<title lang="zh">江南好风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825213000 +0800" stop="20260825220000 +0800">
-		<title lang="zh">觅江南</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825220000 +0800" stop="20260825230000 +0800">
-		<title lang="zh">2026国际帆船大奖赛朴茨茅斯站</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825230000 +0800" stop="20260825233000 +0800">
-		<title lang="zh">皖美风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260825233000 +0800" stop="20260825235900 +0800">
-		<title lang="zh">轻氧日记</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826000000 +0800" stop="20260826040000 +0800">
-		<title lang="zh">十五运赛场</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826040000 +0800" stop="20260826050000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826050000 +0800" stop="20260826053000 +0800">
-		<title lang="zh">江南好风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826053000 +0800" stop="20260826060000 +0800">
-		<title lang="zh">觅江南</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826060000 +0800" stop="20260826063000 +0800">
-		<title lang="zh">缤纷童真</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826063000 +0800" stop="20260826070000 +0800">
-		<title lang="zh">逛遍全中国</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826070000 +0800" stop="20260826080000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826080000 +0800" stop="20260826083000 +0800">
-		<title lang="zh">皖美风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826083000 +0800" stop="20260826090000 +0800">
-		<title lang="zh">轻氧日记</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826090000 +0800" stop="20260826100000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826100000 +0800" stop="20260826103000 +0800">
-		<title lang="zh">螃蟹老师做手工</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826103000 +0800" stop="20260826110000 +0800">
-		<title lang="zh">逛遍全中国</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826110000 +0800" stop="20260826113000 +0800">
-		<title lang="zh">江南好风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826113000 +0800" stop="20260826120000 +0800">
-		<title lang="zh">觅江南</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826120000 +0800" stop="20260826130000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826130000 +0800" stop="20260826133000 +0800">
-		<title lang="zh">皖美风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826133000 +0800" stop="20260826140000 +0800">
-		<title lang="zh">轻氧日记</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826140000 +0800" stop="20260826150000 +0800">
-		<title lang="zh">2026国际帆船大奖赛朴茨茅斯站</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826150000 +0800" stop="20260826170000 +0800">
-		<title lang="zh">十五运赛场</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826170000 +0800" stop="20260826173000 +0800">
-		<title lang="zh">螃蟹老师做手工</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826173000 +0800" stop="20260826180000 +0800">
-		<title lang="zh">拜托了大厨</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826180000 +0800" stop="20260826183000 +0800">
-		<title lang="zh">缤纷童真</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826183000 +0800" stop="20260826190000 +0800">
-		<title lang="zh">逛遍全中国</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826190000 +0800" stop="20260826200000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826200000 +0800" stop="20260826203000 +0800">
-		<title lang="zh">皖美风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826203000 +0800" stop="20260826210000 +0800">
-		<title lang="zh">轻氧日记</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826210000 +0800" stop="20260826213000 +0800">
-		<title lang="zh">江南好风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826213000 +0800" stop="20260826220000 +0800">
-		<title lang="zh">觅江南</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826220000 +0800" stop="20260826230000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826230000 +0800" stop="20260826233000 +0800">
-		<title lang="zh">皖美风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260826233000 +0800" stop="20260826235900 +0800">
-		<title lang="zh">轻氧日记</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827000000 +0800" stop="20260827040000 +0800">
-		<title lang="zh">十五运赛场</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827040000 +0800" stop="20260827050000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827050000 +0800" stop="20260827053000 +0800">
-		<title lang="zh">江南好风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827053000 +0800" stop="20260827060000 +0800">
-		<title lang="zh">觅江南</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827060000 +0800" stop="20260827063000 +0800">
-		<title lang="zh">缤纷童真</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827063000 +0800" stop="20260827070000 +0800">
-		<title lang="zh">逛遍全中国</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827070000 +0800" stop="20260827080000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827080000 +0800" stop="20260827083000 +0800">
-		<title lang="zh">皖美风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827083000 +0800" stop="20260827090000 +0800">
-		<title lang="zh">轻氧日记</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827090000 +0800" stop="20260827100000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827100000 +0800" stop="20260827103000 +0800">
-		<title lang="zh">螃蟹老师做手工</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827103000 +0800" stop="20260827110000 +0800">
-		<title lang="zh">逛遍全中国</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827110000 +0800" stop="20260827113000 +0800">
-		<title lang="zh">江南好风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827113000 +0800" stop="20260827120000 +0800">
-		<title lang="zh">觅江南</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827120000 +0800" stop="20260827130000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827130000 +0800" stop="20260827133000 +0800">
-		<title lang="zh">皖美风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827133000 +0800" stop="20260827140000 +0800">
-		<title lang="zh">轻氧日记</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827140000 +0800" stop="20260827150000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827150000 +0800" stop="20260827170000 +0800">
-		<title lang="zh">十五运赛场</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827170000 +0800" stop="20260827173000 +0800">
-		<title lang="zh">螃蟹老师做手工</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827173000 +0800" stop="20260827180000 +0800">
-		<title lang="zh">拜托了大厨</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827180000 +0800" stop="20260827183000 +0800">
-		<title lang="zh">缤纷童真</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827183000 +0800" stop="20260827190000 +0800">
-		<title lang="zh">逛遍全中国</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827190000 +0800" stop="20260827200000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827200000 +0800" stop="20260827203000 +0800">
-		<title lang="zh">皖美风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827203000 +0800" stop="20260827210000 +0800">
-		<title lang="zh">轻氧日记</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827210000 +0800" stop="20260827213000 +0800">
-		<title lang="zh">江南好风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827213000 +0800" stop="20260827220000 +0800">
-		<title lang="zh">觅江南</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827220000 +0800" stop="20260827230000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827230000 +0800" stop="20260827233000 +0800">
-		<title lang="zh">皖美风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260827233000 +0800" stop="20260827235900 +0800">
-		<title lang="zh">轻氧日记</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828000000 +0800" stop="20260828040000 +0800">
-		<title lang="zh">十五运赛场</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828040000 +0800" stop="20260828050000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828050000 +0800" stop="20260828053000 +0800">
-		<title lang="zh">江南好风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828053000 +0800" stop="20260828060000 +0800">
-		<title lang="zh">觅江南</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828060000 +0800" stop="20260828063000 +0800">
-		<title lang="zh">缤纷童真</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828063000 +0800" stop="20260828070000 +0800">
-		<title lang="zh">逛遍全中国</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828070000 +0800" stop="20260828080000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828080000 +0800" stop="20260828083000 +0800">
-		<title lang="zh">皖美风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828083000 +0800" stop="20260828090000 +0800">
-		<title lang="zh">轻氧日记</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828090000 +0800" stop="20260828100000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828100000 +0800" stop="20260828103000 +0800">
-		<title lang="zh">螃蟹老师做手工</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828103000 +0800" stop="20260828110000 +0800">
-		<title lang="zh">逛遍全中国</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828110000 +0800" stop="20260828113000 +0800">
-		<title lang="zh">江南好风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828113000 +0800" stop="20260828120000 +0800">
-		<title lang="zh">觅江南</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828120000 +0800" stop="20260828130000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828130000 +0800" stop="20260828133000 +0800">
-		<title lang="zh">皖美风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828133000 +0800" stop="20260828140000 +0800">
-		<title lang="zh">轻氧日记</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828140000 +0800" stop="20260828150000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828150000 +0800" stop="20260828170000 +0800">
-		<title lang="zh">十五运赛场</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828170000 +0800" stop="20260828173000 +0800">
-		<title lang="zh">螃蟹老师做手工</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828173000 +0800" stop="20260828180000 +0800">
-		<title lang="zh">拜托了大厨</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828180000 +0800" stop="20260828183000 +0800">
-		<title lang="zh">缤纷童真</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828183000 +0800" stop="20260828190000 +0800">
-		<title lang="zh">逛遍全中国</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828190000 +0800" stop="20260828200000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828200000 +0800" stop="20260828203000 +0800">
-		<title lang="zh">湾区政能量</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828203000 +0800" stop="20260828210000 +0800">
-		<title lang="zh">我爱大自然</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828210000 +0800" stop="20260828213000 +0800">
-		<title lang="zh">江南好风味</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828213000 +0800" stop="20260828220000 +0800">
-		<title lang="zh">觅江南</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828220000 +0800" stop="20260828230000 +0800">
-		<title lang="zh">健康运动家</title>
-	</programme>
-	<programme channel="南国都市4K" start="20260828230000 +0800" stop="20260828235900 +0800">
-		<title lang="zh">我爱大自然</title>
+	<programme channel="TVB News" start="20260902050000 +0800" stop="20260902053000 +0800">
+		<title lang="zh">深宵新闻报道</title>
 	</programme>
 </tv>
